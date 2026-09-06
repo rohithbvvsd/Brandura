@@ -6,7 +6,7 @@ A modern, fully responsive single-page website built for **Brandura**, a creativ
 - **Home** — Hero with animated stats, floating cards and creative background
 - **About** — Studio intro with features
 - **Services** — 4 core services (Social Media, Websites, Reel/Ad shoot, Podcast)
-- **Founder** — Founder (Rohit) profile with photo & quote
+- **Founder** — Founder (Rohith) profile with photo & quote
 - **Contact** — Contact info + WhatsApp / Instagram / Email buttons
 
 ## How to Run

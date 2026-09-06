@@ -5,7 +5,7 @@ Your images live here. The website automatically uses these files:
 | File Name          | Where It's Used                     | Notes                                      |
 |--------------------|-------------------------------------|--------------------------------------------|
 | `logo.jpeg`        | Navbar + Footer logo                | Already added ✓                            |
-| `founder.jpeg`     | Founder section (Rohit)             | Already added ✓                            |
+| `founder.jpeg`     | Founder section (Rohith)             | Already added ✓                            |
 | `hero-main.jpg`    | Homepage hero (main visual)         | Already added ✓ (portrait 4:5)              |
 | `about.jpg`        | About section                       | Already added ✓ (portrait)                  |
 
